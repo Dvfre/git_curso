@@ -1,2 +1,0 @@
-OLGA GITHUB
-primeiro commit
